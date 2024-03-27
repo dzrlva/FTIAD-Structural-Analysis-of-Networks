@@ -1,10 +1,10 @@
 **Project proposal**
 # _Relation Prediction in Knowledge Graphs_ #
 
-team ‘Graph lovers’:
-**Lobachev Nikita**
-**Azevich Mark**
-**Ozerova Daria**
+team **Graph lovers**:
+**Lobachev Nikita** \
+**Azevich Mark** \
+**Ozerova Daria** \
 
 ### _Functionality_:
 For this project, we will be tackling the general ML problem of relation prediction in knowledge graphs. Specifically, we will focus on link prediction in heterogeneous graphs. The goal is to predict missing relationships between entities in a knowledge graph. We will explore different techniques and models to improve the accuracy of these predictions.
